@@ -24,7 +24,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/14_Base-Apparel-Coming-Soon-Master/](https://seismicman.github.io/14_Base-Apparel-Coming-Soon-Master/)
+Solution URL: [https://seismicman.github.io/17_Ping-Coming-Soon-Page-Master/](https://seismicman.github.io/17_Ping-Coming-Soon-Page-Master/)
 
 ## My process
 
